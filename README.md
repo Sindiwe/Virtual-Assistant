@@ -30,4 +30,47 @@ This project was completed as part of the ALX Virtual Assistant training program
 ## 📌 Outcome
 This project showcased my ability to independently plan and present a complete travel solution, suitable for clients or internal use in a virtual assistant role. It also helped sharpen my communication, design, and digital research skills.
 
+# 📬 Virtual Assistant Project – Email & Google Calendar Management
+
+## 📌 Project Overview
+This project was completed as part of the **ALX Virtual Assistant Training Program**, focusing on two key administrative tasks: **email management** and **Google Calendar organization**. The project simulated real-world assistant responsibilities to demonstrate how a Virtual Assistant supports clients in managing their time and communication efficiently.
+
+## 🎯 Goals
+- Demonstrate the ability to organize, prioritize, and manage a professional email inbox
+- Effectively schedule, reschedule, and manage meetings using Google Calendar
+- Showcase communication and organization skills in a virtual assistant role
+
+## 📍 Project Tasks
+
+### ✉️ Email Management
+- Categorized and labeled emails for improved visibility
+- Prioritized emails using flags and filters
+- Drafted professional responses to client inquiries
+- Created folders and applied automation rules for routine messages
+- Unsubscribed from irrelevant newsletters and flagged spam
+
+### 🗓️ Google Calendar Management
+- Created and organized calendar events based on client availability
+- Scheduled meetings with clear titles, locations, and agenda notes
+- Set reminders and color-coded events for clarity
+- Rescheduled conflicting appointments with follow-up emails
+- Shared calendar access and created recurring event setups
+
+## 🛠️ Tools Used
+- Gmail
+- Google Calendar
+- Google Workspace (Docs, Drive, etc.)
+- Time zone management tools
+
+## ✅ Skills Demonstrated
+- Digital communication
+- Inbox zero techniques
+- Calendar organization & scheduling
+- Time management
+- Attention to detail
+- Client support & administrative coordination
+
+
+
+
 
